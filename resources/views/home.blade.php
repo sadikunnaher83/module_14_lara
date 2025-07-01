@@ -26,8 +26,8 @@
                     <div class="card">
                         <img src="{{ asset('assets/images/laptop1.jpg') }}" class="card-img-top" alt="Project 1">
                         <div class="card-body">
-                            <h5 class="card-title">E-commerce Website</h5>
-                            <p class="card-text">A fully responsive online store with payment integration.</p>
+                            <h5 class="card-title">Laptop Source</h5>
+                            <p class="card-text">A website for buying and selling laptops.</p>
                             <a href="portfolio.html" class="btn btn-outline-primary">View Project</a>
                         </div>
                     </div>
@@ -36,8 +36,8 @@
                     <div class="card">
                         <img src="{{ asset('assets/images/laptop2.jpg') }}" src="images/project2.jpg" class="card-img-top" alt="Project 2">
                         <div class="card-body">
-                            <h5 class="card-title">Mobile App Design</h5>
-                            <p class="card-text">UI/UX design for a fitness tracking application.</p>
+                            <h5 class="card-title">Fitness App</h5>
+                            <p class="card-text">A fitness app for fitness enthusiasts.</p>
                             <a href="portfolio.html" class="btn btn-outline-primary">View Project</a>
                         </div>
                     </div>
@@ -46,8 +46,8 @@
                     <div class="card">
                         <img src="{{ asset('assets/images/laptop1.jpg') }}" class="card-img-top" alt="Project 3">
                         <div class="card-body">
-                            <h5 class="card-title">Corporate Website</h5>
-                            <p class="card-text">A modern website for a financial services company.</p>
+                            <h5 class="card-title">Financial Website</h5>
+                            <p class="card-text">A financial modern website for a financial services company.</p>
                             <a href="portfolio.html" class="btn btn-outline-primary">View Project</a>
                         </div>
                     </div>

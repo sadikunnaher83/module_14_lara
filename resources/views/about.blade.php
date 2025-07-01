@@ -9,7 +9,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
-                    <img src="{{ asset('assets/images/avater2.jpg') }}" alt="About Me" class="img-fluid rounded-circle">
+                    <img src="{{ asset('assets/images/sathi.jpg') }}" alt="About Me" class="img-fluid rounded-circle">
                 </div>
                 <div class="col-lg-7">
                     <h2 class="display-5 mb-4">About Me</h2>
