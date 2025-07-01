@@ -28,7 +28,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project1.jpg') }}" class="card-img-top" alt="E-commerce Website">
+                            <img src="{{ asset('assets/images/laptop1.jpg') }}" class="card-img-top" alt="E-commerce Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">E-commerce Website</h5>
@@ -48,7 +48,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="app">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project2.jpg') }}" class="card-img-top" alt="Fitness App">
+                            <img src="{{ asset('assets/images/laptop2.jpg') }}" class="card-img-top" alt="Fitness App">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Fitness Tracking App</h5>
@@ -68,7 +68,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project3.jpg') }}" class="card-img-top" alt="Corporate Website">
+                            <img src="{{ asset('assets/images/laptop1.jpg') }}" class="card-img-top" alt="Corporate Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Corporate Website</h5>

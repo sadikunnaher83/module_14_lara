@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
             <a class="navbar-brand" href="{{ route('home') }}">
-                <img src="{{ asset('assets/images/logo.png') }}" alt="Logo" height="30">
+                <img src="{{ asset('assets/images/comp.png') }}" alt="Logo" height="30">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -51,7 +51,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p>&copy; 2023 My Portfolio. All rights reserved.</p>
+                    <p>&copy; 2025 My Portfolio. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-end">
                     <a href="#" class="text-white me-2"><i class="fab fa-facebook-f"></i></a>

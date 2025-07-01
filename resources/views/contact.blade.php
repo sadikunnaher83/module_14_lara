@@ -9,7 +9,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 mb-5 mb-lg-0">
-                    <h2 class="display-5 mb-4">Get In Touch</h2>
+                    <h2 class="display-5 mb-4">Touch In Mind</h2>
                     <p class="lead mb-4">Have a project in mind or want to discuss potential collaboration? Feel free to reach out!</p>
 
                     <div class="mb-4">
@@ -17,15 +17,15 @@
                         <ul class="list-unstyled">
                             <li class="mb-3">
                                 <i class="fas fa-map-marker-alt text-primary me-2"></i>
-                                <span>123 Main Street, New York, NY 10001</span>
+                                <span>Purbo-Monipur, Mirpur-10, Dhaka</span>
                             </li>
                             <li class="mb-3">
                                 <i class="fas fa-envelope text-primary me-2"></i>
-                                <a href="mailto:john@example.com">john@example.com</a>
+                                <a href="mailto:sathi@example.com">sathiislam783@gmail.com</a>
                             </li>
                             <li class="mb-3">
                                 <i class="fas fa-phone text-primary me-2"></i>
-                                <a href="tel:+1234567890">(123) 456-7890</a>
+                                <a href="tel:+1234567890">01937385141</a>
                             </li>
                         </ul>
                     </div>
@@ -76,7 +76,7 @@
     <section class="py-0">
         <div class="container-fluid px-0">
             <div class="ratio ratio-21x9">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215256836312!2d-73.9878449241646!3d40.74844097138988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1689877607784!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14601.662570999282!2d90.37384540000001!3d23.8038146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c0d35cc33b3d%3A0xf407ee8433836340!2sMirpur-10%2C%20Dhaka%201216!5e0!3m2!1sen!2sbd!4v1751346702423!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </section>

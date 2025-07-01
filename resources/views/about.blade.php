@@ -9,25 +9,25 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
-                    <img src="{{ asset('assets/images/avatar.jpg') }}" alt="About Me" class="img-fluid rounded-circle">
+                    <img src="{{ asset('assets/images/avater2.jpg') }}" alt="About Me" class="img-fluid rounded-circle">
                 </div>
                 <div class="col-lg-7">
                     <h2 class="display-5 mb-4">About Me</h2>
-                    <p class="lead">I'm a passionate web developer with over 5 years of experience creating beautiful and functional websites.</p>
+                    <p class="lead">I'm a passionate web developer with over 3 years of experience creating beautiful and functional websites.</p>
                     <p>My journey in web development began when I was studying computer science at university. Since then, I've worked with numerous clients from various industries, helping them establish their online presence.</p>
                     <p>I specialize in front-end development using modern technologies like HTML5, CSS3, JavaScript, and frameworks like Bootstrap and React. I also have experience with back-end technologies including Node.js and PHP.</p>
                     <div class="row mt-4">
                         <div class="col-md-6">
                             <ul class="list-unstyled">
-                                <li class="mb-2"><strong>Name:</strong> John Doe</li>
-                                <li class="mb-2"><strong>Email:</strong> john@example.com</li>
-                                <li class="mb-2"><strong>Phone:</strong> (123) 456-7890</li>
+                                <li class="mb-2"><strong>Name:</strong>Sathi Islam</li>
+                                <li class="mb-2"><strong>Email:</strong> sathiislam783@gmail.com</li>
+                                <li class="mb-2"><strong>Phone:</strong> 01937385141</li>
                             </ul>
                         </div>
                         <div class="col-md-6">
                             <ul class="list-unstyled">
-                                <li class="mb-2"><strong>Experience:</strong> 5+ Years</li>
-                                <li class="mb-2"><strong>Location:</strong> New York, USA</li>
+                                <li class="mb-2"><strong>Experience:</strong> 2+ Years</li>
+                                <li class="mb-2"><strong>Location:</strong> Dhaka, Bangladesh</li>
                                 <li class="mb-2"><strong>Freelance:</strong> Available</li>
                             </ul>
                         </div>
